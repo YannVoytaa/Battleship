@@ -1,0 +1,162 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Battleship/task/out/test/classes/
+/Topics/Abstract class/Shape hierarchy/out/
+/Topics/Abstract class/Shape hierarchy/out/production/classes/
+/Topics/Array exceptions/Calculate Square/out/
+/Topics/Array exceptions/Calculate Square/out/production/classes/
+/Topics/Array exceptions/Out of bounds_/out/
+/Topics/Array exceptions/Out of bounds_/out/production/classes/
+/Topics/Array exceptions/Theory/out/
+/Topics/Array exceptions/Theory/out/production/classes/
+/Topics/Arrays as parameters/Get first and last elements/out/
+/Topics/Arrays as parameters/Get first and last elements/out/production/classes/
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
+/Topics/Constructor/Book/out/
+/Topics/Constructor/Book/out/production/classes/
+/Topics/Constructor/Complex numbers/out/
+/Topics/Constructor/Complex numbers/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Defining classes/Accounts/out/
+/Topics/Defining classes/Accounts/out/production/classes/
+/Topics/Defining classes/Inner boxes/out/
+/Topics/Defining classes/Inner boxes/out/production/classes/
+/Topics/Defining classes/Points on the 2D plane/out/
+/Topics/Defining classes/Points on the 2D plane/out/production/classes/
+/Topics/Defining classes/Theory/out/
+/Topics/Defining classes/Theory/out/production/classes/
+/Topics/Enums in Java/Currencies/out/
+/Topics/Enums in Java/Currencies/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Errors in programs/Print the age/out/
+/Topics/Errors in programs/Print the age/out/production/classes/
+/Topics/Errors in programs/Theory/out/
+/Topics/Errors in programs/Theory/out/production/classes/
+/Topics/Errors in programs/What's wrong?/out/
+/Topics/Errors in programs/What's wrong?/out/production/classes/
+/Topics/Exception handling/Catching some exceptions/out/
+/Topics/Exception handling/Catching some exceptions/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Exception handling/String to double conversion/out/
+/Topics/Exception handling/String to double conversion/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Getters and setters/Account/out/
+/Topics/Getters and setters/Account/out/production/classes/
+/Topics/Getters and setters/Complex/out/
+/Topics/Getters and setters/Complex/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Getters and setters/Theory/out/
+/Topics/Getters and setters/Theory/out/production/classes/
+/Topics/Inheritance/Classes for Hospital/out/
+/Topics/Inheritance/Classes for Hospital/out/production/classes/
+/Topics/Inheritance/Theory/out/
+/Topics/Inheritance/Theory/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Input streams/Theory/out/
+/Topics/Input streams/Theory/out/production/classes/
+/Topics/Instance methods/Car/out/
+/Topics/Instance methods/Car/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Multidimensional array/Maximum element in a matrix/out/
+/Topics/Multidimensional array/Maximum element in a matrix/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/Multidimensional array/Swap the columns/out/
+/Topics/Multidimensional array/Swap the columns/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/
+/Topics/NPE/Theory/out/
+/Topics/NPE/Theory/out/production/classes/
+/Topics/Objects/Army/out/
+/Topics/Objects/Army/out/production/classes/
+/Topics/Objects/Preparing full name/out/
+/Topics/Objects/Preparing full name/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Theory/out/
+/Topics/Overloading/Theory/out/production/classes/
+/Topics/Package/Binary search/out/
+/Topics/Package/Binary search/out/production/classes/
+/Topics/Package/Getting input/out/
+/Topics/Package/Getting input/out/production/classes/
+/Topics/Package/Sorting arrays/out/
+/Topics/Package/Sorting arrays/out/production/classes/
+/Topics/Package/Theory/out/
+/Topics/Package/Theory/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
+/Topics/The for-loop/Arithmetic average/out/
+/Topics/The for-loop/Arithmetic average/out/production/classes/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The main method/Fixing the main method/out/
+/Topics/The main method/Fixing the main method/out/production/classes/
+/Topics/The main method/Theory/out/
+/Topics/The main method/Theory/out/production/classes/
+/Topics/Throwing exceptions/The root of a number/out/
+/Topics/Throwing exceptions/The root of a number/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Throwing exceptions/Throw an unchecked exception/out/
+/Topics/Throwing exceptions/Throw an unchecked exception/out/production/classes/
+/Topics/What is an exception/Avoid division by zero/out/
+/Topics/What is an exception/Avoid division by zero/out/production/classes/
+/Topics/What is an exception/Theory/out/
+/Topics/What is an exception/Theory/out/production/classes/
